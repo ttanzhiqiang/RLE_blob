@@ -20,7 +20,9 @@ RLE（run-length encoding） vs halcon
 
 <details><summary><b>BENCHMARK</b></summary>
 
- 4096*3000/threshold=(130,255)/NumRuns=34176/Area=5172496
+CPU: i5
+
+4096*3000/threshold=(130,255)/NumRuns=34176/Area=5172496
 
 |           |        | Feature Size | RLE     | Halcon |
 | --------- | ------ | ------------ | ------- | ------ |
